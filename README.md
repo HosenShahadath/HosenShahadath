@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Shahadath Hosen from Kishoreganj, Dhaka, Bangladesh<br><br>🔭 I’m working as Brother Soft Limited <br>📚 I'm currently learning Flutter app development<br>⚡ In my free time, I enjoy playing football</p>
+<p align="left">I'm Shahadath Hosen from Kishoreganj, Dhaka, Bangladesh<br><br>🔭 I’m loking for work <br>📚 I'm currently learning Flutter app development<br>⚡ In my free time, I enjoy playing football</p>
 
 ###
 
