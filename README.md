@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">I'm Shahadath Hosen from Kishoreganj, Dhaka, Bangladesh<br><br>🔭 I’m loking for work <br>📚 I'm currently learning Flutter app development in Ostad platfrom<br>⚡ In my free time, I enjoy playing football</p>
+<p align="left">I'm Shahadath Hosen, a Flutter developer from Kishoreganj, Dhaka, Bangladesh, skilled in building cross-platform mobile apps using Dart and Flutter.
+
+
+<br><br>🔭 I’m loking for work <br>📚 I'm currently learning Flutter app development in Ostad platfrom<br>⚡ In my free time, I enjoy playing football</p>
 
 ###
 
