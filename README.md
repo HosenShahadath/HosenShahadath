@@ -73,16 +73,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HosenShahadath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-![HosenShahadath's Stats](https://github-readme-stats.vercel.app/api?username=HosenShahadath&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![HosenShahadath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosenShahadath&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-
-
-###
+![HosenShahadath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HosenShahadath&theme=merko&hide_border=true)
+![HosenShahadath's Stats](https://github-readme-stats.vercel.app/api?username=HosenShahadath&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![HosenShahadath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosenShahadath&theme=merko&show_icons=true&hide_border=true&layout=compact)
